@@ -14,3 +14,13 @@
 -Итд.
 
 (Использовались HTML, CSS, JS только в виде библиотек)
+
+Демонстрация интерфейса:
+
+![image](https://github.com/user-attachments/assets/2c2e497a-290c-4ef8-ab80-4eccdbb69c84)
+![image](https://github.com/user-attachments/assets/52f15062-00b3-46ea-b32d-fd408ec4f265)
+![image](https://github.com/user-attachments/assets/4c83894e-0de6-44d7-ac43-78aef46414c3)
+![image](https://github.com/user-attachments/assets/24babb04-b4c2-4651-8839-f6663ca7dd1f)
+![image](https://github.com/user-attachments/assets/a8f40242-5b1f-45e1-a3fe-c0f31eb50ef7)
+![image](https://github.com/user-attachments/assets/8d7d00ca-e066-4311-9891-01e1b0e0af2c)
+
